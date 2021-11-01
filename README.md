@@ -8,6 +8,6 @@
 >
 > 一个 Channel 对应一个 ChannelPipeline，一个 ChannelPipeline 当中包含了多个 ChannelHandler，而且是有顺序的。
 
-该脚本支持多种复杂情况，具体请看源码，都有注释。 我做了非常简单的在线网站，供各位尝试：http://112.74.170.181:9999/byn/
+该脚本支持多种复杂情况，具体请看源码，都有注释。
 
 
